@@ -7,3 +7,4 @@ print(b)
 for _ in range(10):
   print(a+b)
   a,b = b,a+b
+print("this is great")
